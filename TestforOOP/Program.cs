@@ -10,7 +10,11 @@ namespace TestforOOP
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Hello Matt");
+            Console.WriteLine();
+            Console.WriteLine("I look forward to learning about OOP :)");
+
+            Console.ReadKey(true);
         }
     }
 }
